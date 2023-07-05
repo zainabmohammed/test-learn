@@ -4,7 +4,7 @@ import AboutTrip from "./component/About";
 function App() {
   return (
     <div>
-      <AboutTrip />
+      hello
     </div>
   );
 }
